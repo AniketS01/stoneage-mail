@@ -7,6 +7,11 @@ This is a library [under development] which helps send email via cli.
 ## Installation
 
 ```
-
-npm i stoneage-nail
+npm i -g stoneage-nail
 ```
+or
+
+```
+yarn global add stoneage-mail
+```
+
