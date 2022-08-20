@@ -6,7 +6,7 @@ This is a library [under development] which helps send email via cli.
 
 ## Installation
 
-...
+```
 
 npm i stoneage-nail
-...
+```
