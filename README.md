@@ -16,3 +16,7 @@ or
 yarn global add stoneage-mail
 ```
 
+## License
+
+stoneage-mail is freely distributable under the terms of the MIT license.
+
