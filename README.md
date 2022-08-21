@@ -9,7 +9,7 @@ A js based command line tool which helps send email via terminal.
 ## Installation
 
 ```
-npm i -g stoneage-nail
+npm i -g stoneage-mail
 ```
 or
 
